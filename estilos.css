@@ -1,0 +1,47 @@
+* {
+    font-family: Verdana;
+}
+
+body {background-color: #df2757;}
+
+
+/**
+Estos son los estilos de la trayectoria laboral
+*/
+li {color: rgb(15, 0, 5)}
+
+body {
+    font-family: 'Roboto', sans-serif;;
+    border: 10px groove #f77984;
+    padding: 10px;
+    color: rgb(46, 42, 42);
+    margin:20px;
+}
+
+
+#parrafo_destacado {
+    font-family: 'Segoe UI';
+}
+
+.estaesmiclase {
+    font-weight: bold;
+    color: lightgreen;
+}
+
+.bordefotoperfil {
+    border: 15px solid #f77984;
+    margin: 20px;
+    padding: 15px;
+}
+
+#bordeformulario {
+    border: 20px color purple;
+    padding: 30px;
+}
+
+.bordedatos {
+    border: 15px solid #f77984;
+    margin: 20px;
+    padding: 15px;
+    font-size: 20px;
+}
